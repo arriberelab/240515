@@ -1,0 +1,144 @@
+>rps-2
+                            facet      tpm prop.cells.expr n.umi
+Gonad                       Gonad 4792.615       0.9307400 53859
+Hypodermis             Hypodermis 3767.699       0.7578301 21331
+Body wall muscle Body wall muscle 3231.278       0.8656655 61950
+Glia                         Glia 2345.335       0.5284640  2130
+Pharynx                   Pharynx 2209.982       0.4092784  2558
+Neurons                   Neurons 1410.540       0.2102273  3371
+Intestine               Intestine 1058.517       0.6598778  1298
+>rps-10
+                            facet       tpm prop.cells.expr n.umi
+Hypodermis             Hypodermis 1928.0867       0.6165814 10101
+Gonad                       Gonad 1883.1437       0.8062619 20281
+Body wall muscle Body wall muscle 1728.2018       0.7538572 29699
+Glia                         Glia 1440.4791       0.4060150  1142
+Pharynx                   Pharynx 1335.9706       0.3067010  1316
+Neurons                   Neurons 1048.5310       0.1635552  2298
+Intestine               Intestine  382.3202       0.3849287   455
+>rpl-7
+                            facet       tpm prop.cells.expr n.umi
+Hypodermis             Hypodermis 2569.3243       0.7719550 13712
+Body wall muscle Body wall muscle 2304.3823       0.8873689 40512
+Gonad                       Gonad 2135.1201       0.8861480 23118
+Glia                         Glia 1897.0946       0.5477981  1397
+Neurons                   Neurons 1589.3505       0.2866613  3332
+Pharynx                   Pharynx 1577.2329       0.4164948  1817
+Intestine               Intestine  428.0663       0.5193483   518
+>rpl-9
+                            facet       tpm prop.cells.expr n.umi
+Hypodermis             Hypodermis 3076.8731       0.7275333 15637
+Body wall muscle Body wall muscle 2767.2448       0.8520880 49180
+Gonad                       Gonad 2720.0096       0.8650854 29347
+Glia                         Glia 2271.6330       0.5155747  1691
+Pharynx                   Pharynx 1883.0341       0.3659794  2118
+Neurons                   Neurons 1451.9582       0.2054924  3108
+Intestine               Intestine  579.1025       0.4704684   746
+>rpl-25.1, rpl-23A.1
+                            facet       tpm prop.cells.expr n.umi
+Hypodermis             Hypodermis 638.73949      0.40573183  3543
+Body wall muscle Body wall muscle 596.05375      0.54793252 10864
+Glia                         Glia 576.86312      0.28249194   455
+Pharynx                   Pharynx 490.35689      0.18711340   536
+Neurons                   Neurons 475.29347      0.10200216   973
+Intestine               Intestine 147.67895      0.24847251   162
+Gonad                       Gonad  72.45238      0.07267552   807
+>rpl-25.2, rpl-23A.2
+                            facet       tpm prop.cells.expr n.umi
+Gonad                       Gonad 1330.6381      0.68899431 15000
+Hypodermis             Hypodermis  596.9600      0.30767656  3520
+Body wall muscle Body wall muscle  493.9855      0.37482000  9028
+Glia                         Glia  328.5101      0.15037594   285
+Pharynx                   Pharynx  206.6373      0.06443299   263
+Neurons                   Neurons  176.9472      0.03300866   458
+Intestine               Intestine  116.7435      0.16293279   138
+>rpl-24.1
+                            facet       tpm prop.cells.expr n.umi
+Hypodermis             Hypodermis 2273.1422       0.7394063 11702
+Body wall muscle Body wall muscle 2049.9295       0.8682370 34548
+Gonad                       Gonad 1835.7088       0.8715370 19391
+Glia                         Glia 1550.1964       0.5220193  1257
+Pharynx                   Pharynx 1433.7481       0.3865979  1487
+Neurons                   Neurons 1314.9962       0.2535173  2747
+Intestine               Intestine  535.5667       0.5580448   624
+>rpl-24.2
+                            facet       tpm prop.cells.expr n.umi
+Gonad                       Gonad 100.92026     0.165085389  1160
+Body wall muscle Body wall muscle  47.35875     0.075396009   904
+Hypodermis             Hypodermis  46.54716     0.048925281   299
+Glia                         Glia  44.53964     0.022556391    26
+Pharynx                   Pharynx  37.98036     0.023195876    49
+Intestine               Intestine  18.31101     0.040733198    22
+Neurons                   Neurons  17.14807     0.004329004    37
+>W01D2.1, rpl-37.1
+                            facet       tpm prop.cells.expr n.umi
+Hypodermis             Hypodermis 386.56889      0.28352098  2014
+Gonad                       Gonad 355.70813      0.43036053  3752
+Body wall muscle Body wall muscle 324.47990      0.36782555  5370
+Glia                         Glia 216.98831      0.13426423   173
+Pharynx                   Pharynx 212.34057      0.08762887   206
+Neurons                   Neurons 190.48823      0.05005411   430
+Intestine               Intestine  78.79177      0.12423625    85
+>rpl-27, rpl-37.2
+                            facet       tpm prop.cells.expr n.umi
+Hypodermis             Hypodermis 17.934668     0.019447288    98
+Gonad                       Gonad 14.587182     0.029411765   168
+Body wall muscle Body wall muscle 13.557287     0.024891998   255
+Neurons                   Neurons 12.190931     0.003111472    24
+Intestine               Intestine  7.566092     0.012219959     7
+Glia                         Glia  6.821205     0.005370569     5
+Pharynx                   Pharynx  6.659010     0.004123711     9
+>C37A2.7, rplp-2.1
+                            facet      tpm prop.cells.expr n.umi
+Hypodermis             Hypodermis 998.4274      0.41105425  5069
+Body wall muscle Body wall muscle 886.9461      0.56315573 15710
+Gonad                       Gonad 854.0308      0.57058824  9127
+Glia                         Glia 774.2347      0.24597207   536
+Pharynx                   Pharynx 596.8231      0.16030928   614
+Neurons                   Neurons 501.1046      0.08198052  1051
+Intestine               Intestine 149.2264      0.16496945   165
+>rla-2, rplp-2.2
+                            facet      tpm prop.cells.expr n.umi
+Glia                         Glia 736.2716      0.25349087   537
+Gonad                       Gonad 733.0623      0.52941176  8012
+Hypodermis             Hypodermis 700.7911      0.33776868  3877
+Body wall muscle Body wall muscle 675.3443      0.46029624 11976
+Pharynx                   Pharynx 572.7694      0.15927835   588
+Neurons                   Neurons 455.4557      0.07575758   980
+Intestine               Intestine 226.0940      0.19551935   239
+>rpl-11.1
+                            facet        tpm prop.cells.expr n.umi
+Gonad                       Gonad 3209.34032      0.86470588 34937
+Neurons                   Neurons  158.53981      0.02651515   423
+Hypodermis             Hypodermis  113.72863      0.06816786   604
+Glia                         Glia   74.31545      0.03544576    79
+Pharynx                   Pharynx   64.91952      0.02319588   126
+Body wall muscle Body wall muscle   64.31407      0.05924707  1017
+Intestine               Intestine   25.23604      0.03054990    30
+>rpl-11.2
+                            facet       tpm prop.cells.expr n.umi
+Hypodermis             Hypodermis 3180.4553       0.7338792 16296
+Body wall muscle Body wall muscle 2737.4415       0.8420078 48778
+Glia                         Glia 2199.4526       0.5166488  1778
+Pharynx                   Pharynx 1972.4495       0.3773196  2154
+Neurons                   Neurons 1492.0476       0.2137446  3263
+Intestine               Intestine  442.0229       0.4215886   533
+Gonad                       Gonad  371.3455       0.1290323  4135
+>rpl-41.1
+                            facet       tpm prop.cells.expr n.umi
+Gonad                       Gonad 37.888325     0.067552182   420
+Body wall muscle Body wall muscle 32.958760     0.049886855   574
+Hypodermis             Hypodermis 16.222302     0.017604913    99
+Glia                         Glia 16.147849     0.011815252    13
+Intestine               Intestine 12.876461     0.018329939     9
+Neurons                   Neurons 11.120748     0.003111472    27
+Pharynx                   Pharynx  9.231094     0.006185567    14
+>rpl-41.2
+                            facet      tpm prop.cells.expr n.umi
+Gonad                       Gonad 718.1203      0.63927894  7697
+Hypodermis             Hypodermis 620.5637      0.40368475  3237
+Pharynx                   Pharynx 451.2774      0.15412371   430
+Body wall muscle Body wall muscle 430.9844      0.43993006  7141
+Neurons                   Neurons 391.6936      0.09077381   869
+Glia                         Glia 379.5867      0.17508056   244
+Intestine               Intestine 358.7892      0.35641548   405
